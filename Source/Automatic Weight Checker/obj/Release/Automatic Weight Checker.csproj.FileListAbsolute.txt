@@ -1,0 +1,52 @@
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe.config
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.pdb
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.EPF.resources
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.FAIL.resources
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Form1.resources
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.PASS.resources
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Properties.Resources.resources
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.GenerateResource.cache
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.CoreCompileInputs.cache
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.exe
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.pdb
+D:\Users\Sergio\Documents\Visual Studio 2017\Projects\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csprojAssemblyReference.cache
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe.config
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.pdb
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.AssemblyReference.cache
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.EPF.resources
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.FAIL.resources
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Form1.resources
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.PASS.resources
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Properties.Resources.resources
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.GenerateResource.cache
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.CoreCompileInputs.cache
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.exe
+D:\Users\Sergio\Documents\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.pdb
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe.config
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\bin\Release\Automatic Weight Checker.pdb
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.EPF.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.FAIL.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Form1.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.PASS.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Properties.Resources.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.GenerateResource.cache
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.CoreCompileInputs.cache
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.exe
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.pdb
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\Automatic Weight Checker\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.AssemblyReference.cache
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe.config
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\bin\Release\Automatic Weight Checker.exe
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\bin\Release\Automatic Weight Checker.pdb
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.EPF.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.FAIL.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Form1.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.PASS.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic_Weight_Checker.Properties.Resources.resources
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.GenerateResource.cache
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.CoreCompileInputs.cache
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic Weight Checker.exe
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic Weight Checker.pdb
+D:\onedrive\Documentos\Clientes\ykk\Proyecto Pesaje Fujimoto San\AWC 2.0\Source\Automatic Weight Checker\obj\Release\Automatic Weight Checker.csproj.AssemblyReference.cache
